@@ -1,7 +1,7 @@
 package org.lzw;
 
 import java.util.Arrays;
-
+//503
 public class Date0624 {
     public static void main(String[] args) {
         int[] ints = new Date0624().nextGreaterElements(new int[]{1, 2, 3, 4, 3});

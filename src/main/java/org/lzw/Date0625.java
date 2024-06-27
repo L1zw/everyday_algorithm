@@ -4,6 +4,7 @@ import java.util.*;
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 
+//2732
 public class Date0625 {
     public static void main(String[] args) {
 //        int[][] matrix = {{0, 1, 1, 0}, {0, 0, 0, 1}, {1, 1, 1, 1}};
